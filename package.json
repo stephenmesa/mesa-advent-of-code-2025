@@ -17,7 +17,8 @@
   "scripts": {
     "test": "mocha",
     "watch": "mocha --watch --parallel",
-    "new-day": "node newDay.js"
+    "new-day": "node newDay.js",
+    "day01": "node day01Driver.js"
   },
   "devDependencies": {
     "mocha": "^11.7.5",
