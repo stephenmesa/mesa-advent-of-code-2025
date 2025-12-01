@@ -1,0 +1,24 @@
+{
+  "name": "mesa-advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "This is my personal collection of answers to the 2025 edition of Advent of Code.",
+  "homepage": "https://github.com/stephenmesa/mesa-advent-of-code-2025#readme",
+  "bugs": {
+    "url": "https://github.com/stephenmesa/mesa-advent-of-code-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenmesa/mesa-advent-of-code-2025.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "npm": "^11.6.4"
+  },
+  "devDependencies": {}
+}
