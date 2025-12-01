@@ -19,8 +19,8 @@
     "watch": "mocha --watch --parallel",
     "new-day": "node newDay.js"
   },
-  "dependencies": {},
   "devDependencies": {
+    "mocha": "^11.7.5",
     "mustache": "^4.2.0",
     "npm": "^11.6.4",
     "npm-add-script": "^1.1.0"
