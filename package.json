@@ -18,7 +18,8 @@
     "test": "mocha",
     "watch": "mocha --watch --parallel",
     "new-day": "node newDay.js",
-    "day01": "node day01Driver.js"
+    "day01": "node day01Driver.js",
+    "day02": "node day02Driver.js"
   },
   "devDependencies": {
     "mocha": "^11.7.5",
