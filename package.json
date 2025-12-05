@@ -21,7 +21,8 @@
     "day01": "node day01Driver.js",
     "day02": "node day02Driver.js",
     "day03": "node day03Driver.js",
-    "day04": "node day04Driver.js"
+    "day04": "node day04Driver.js",
+    "day05": "node day05Driver.js"
   },
   "devDependencies": {
     "mocha": "^11.7.5",
